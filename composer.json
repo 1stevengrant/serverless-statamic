@@ -16,6 +16,8 @@
         "laravel/framework": "^9.0",
         "laravel/sanctum": "^2.14",
         "laravel/tinker": "^2.7",
+        "laravel/vapor-cli": "^1.44",
+        "laravel/vapor-core": "^2.24",
         "statamic/cms": "3.3.*",
         "statamic/eloquent-driver": "^1.0"
     },

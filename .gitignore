@@ -16,3 +16,6 @@ yarn-error.log
 .DS_Store
 /.idea
 /.vscode
+.vapor/
+.env.production
+.env.staging

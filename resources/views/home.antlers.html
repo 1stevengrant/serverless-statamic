@@ -5,7 +5,9 @@
 {{ collection:articles }}
 <div>
     <h1>
-        {{ title }}
+        <a href="{{ url }}">
+            {{ title }} {{ date }}
+        </a>
     </h1>
 </div>
 {{ /collection:articles }}
